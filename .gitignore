@@ -1,0 +1,15 @@
+﻿__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+models/
+checkpoints/
+outputs/*.wav
+*.onnx
+*.pt
+*.pth
